@@ -7,6 +7,6 @@ Les données, assez nombreuses, ont été fournies par l'aéroport d'Edimbourg.
 
 ## Contributeurs 
 
-- [@HanaT-DS]
-- [@christana22](https://github.com/NomDuCoéquipier1)
-- [@AnneliMks](https://github.com/NomDuCoéquipier2)
+- [@christana22](https://github.com/christana22)
+- [@HanaT-DS](https://github.com/HanaT-DS)
+- [@AnneliMks](https://github.com/AnneliMks)
